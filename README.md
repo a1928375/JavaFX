@@ -4,9 +4,9 @@
 
 2. HelloWorldFX: Display the texts by JavaFX.
 
-3. EmptyWindow: Display an empty window.
+3. EmptyWindow: Display an empty window in JavaFX.
 
-4. DrawingAStraightLine: Draw a straight lint in a window.
+4. DrawingAStraightLine: Draw a straight line in a window.
 
 5. Controls: Some useful control components in JavaFX.
 
